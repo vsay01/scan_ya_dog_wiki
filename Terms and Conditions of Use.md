@@ -16,6 +16,13 @@ With respect to SAY Studio’s responsibility for your use of the app, when you�
 
 At some point, we may wish to update the app. The app is currently available on – the requirements for system (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. SAY Studio does not promise that it will always update the app so that it is relevant to you and/or works with the version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
+**Bugs and errors may occur**
+
+The materials appearing on the application could include technical, typographical, or photographic errors. Lumina does not warrant that any of the materials on the application are accurate, complete, or current. SAY Studio may make changes to the materials contained on its application at any time without notice. SAY Studio does not, however, make any commitment to update the materials.
+
+**Our privacy policy**
+Our Privacy Policy is located at https://github.com/vsay01/scan_ya_dog_wiki/blob/master/pirvacy_policy.md. Our Privacy Policy describes how we collect, use, and share your personal information. By accepting these Terms you also agree to our Privacy Policy.
+
 **Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. Wee will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
