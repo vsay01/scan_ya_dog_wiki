@@ -42,6 +42,10 @@ This Service may contain links to other sites. If you click on a third-party lin
 - The Service requires the WRITE_EXTERNAL_STORAGE permission in order to save the screenshot so that user can share this screenshot with others if needed.
 - The Service requires the READ_EXTERNAL_STORAGE permission in order to get the screenshot so that user can share this screenshot with others if needed.
 
+### Contents and Assets
+
+All the Dog Breeds content and images are obtained from [Wikipedia] (https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content). SAY Studio are not responsible for any incorrect contents related to dog breeds or dog images.
+
 ### Changes to this Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
